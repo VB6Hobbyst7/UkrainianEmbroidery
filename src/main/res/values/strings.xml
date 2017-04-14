@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ukrainian embroidery</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ukrainian_embroidery">Ukrainian_Embroidery</string>
+    <string name="cache">Cache</string>
+    <string name="images">Images</string>
+    <string name="set">Set wallpaper</string>
+
+    <string-array name="imagesInWeb">
+        <item>http://imageshack.com/a/img924/7950/4Vu0Pd.png</item>
+        <item>http://imageshack.com/a/img922/7886/eo0jpE.png</item>
+        <item>http://imageshack.com/a/img924/2703/VZ6Y8S.png</item>
+        <item>http://imageshack.com/a/img921/2325/pEDT9a.png</item>
+        <item>http://imageshack.com/a/img924/3629/g1sb1W.png</item>
+        <item>http://imageshack.com/a/img921/5997/eHLLmC.png</item>
+        <item>http://imageshack.com/a/img923/9392/qbE38k.png</item>
+        <item>http://imageshack.com/a/img922/7290/tGLynq.png</item>
+
+    </string-array>
+
+</resources>
